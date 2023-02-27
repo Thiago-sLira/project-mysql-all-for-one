@@ -1,13 +1,15 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h2>Bem vindo e Bem vinda</h2>
+<h3>Repositório do MySQL All For One</h3>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p>Construí esse projeto como parte do do curso de desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank" alt="Trybe">Trybe</a></p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h3>Propósito do projeto</h3>
+
+<p>Montar diversas queries de acordo com o solicitado. Algumas delas foram ordenar dados e limitá-los à uma certa quantidade, concatenar dados de duas diferentes colunas e nomear, contar quantidade de ocorrências de acordo com o filtro e até inserir, atualizar e deletar dados da tabela.</p>
+<p>O mais desafiados foi o receio de fazer um update ou delete sem estar de acordo com o solicitado. Procurei sempre fazer um SELECT com o filtro antes para garantir que vou atualizar e/ou deletar os dados corretamente.</p>
+
+<h3>Visual do projeto</h3>
+
+<img alt="image-readme" src="./WorkBench.png" title="Work-Bench-All-For-One"/>
+
+<p>Fico à disposição para contato, sugestões e feedbacks sobre o projeto.</p>
